@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of ganuonglachanh/flarum-vn-slug.** Not for installation: use [Packagist](https://packagist.org/packages/ganuonglachanh/flarum-vn-slug) or the [upstream repository](https://github.com/ganuonglachanh/flarum-vn-slug).
 
-**0** versions archived · Latest: [`v0.1.8`](https://github.com/flarchive/ganuonglachanh-flarum-vn-slug/tree/archive/v0.1.8) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**2** versions archived · Latest: [`v0.1.8`](https://github.com/flarchive/ganuonglachanh-flarum-vn-slug/tree/archive/v0.1.8) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2016-01-14 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/ganuonglachanh-flarum-vn-slug/tree/archive/v0.1.0) |
+| `v0.1.8` | 2018-05-01 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/ganuonglachanh-flarum-vn-slug/tree/archive/v0.1.8) |
 
 Catalog entry: [packages/ganuonglachanh-flarum-vn-slug.json](https://github.com/flarchive/archive-index/blob/main/packages/ganuonglachanh-flarum-vn-slug.json)
 
